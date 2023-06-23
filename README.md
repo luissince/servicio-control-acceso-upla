@@ -1,4 +1,4 @@
-# SERVICIO APP MOVIL UPLA
+# SERVICIO CONTROL DE ACCESO
 
 <img src="src/helper/images/logo_upla.svg" alt="Imagen go" width="200" />
 
@@ -43,10 +43,10 @@ Siga los pasos para iniciar el desarrollo:
         git config --global user.email johndoe@example.com
 
         // crea una carpera
-        mkdir servicio-app-movil-upla
+        mkdir servicio-control-acceso-upla
 
         // moverse a la carpera
-        cd servicio-app-movil-upla
+        cd servicio-control-acceso-upla
         
         // comando que inicia git
         git init
